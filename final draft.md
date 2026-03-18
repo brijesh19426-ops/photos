@@ -403,6 +403,8 @@ INDIAN Companies Leading in this field:
 2. Tesseract
 3. Scapic
 
+https://github.com/brijesh19426-ops/photos/blob/3edf4ec7f20e4a13dac2cc7526d0e7ccb3138cf8/vr1.png
+
 
 # TASK : ESP32 LED TOGGLE
 
