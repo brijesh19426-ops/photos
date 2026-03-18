@@ -437,7 +437,9 @@ The circuit keeps switching between HIGH and LOW automatically during high volta
 
 During low voltage the capacitor discharges and the gaps is seen 
 
-<video><source src ="555 v.mp4" controls>no video</video> 
+
+
+https://github.com/user-attachments/assets/74c9bfdc-a8cd-49fe-ba06-43a3b79cb2e0
 
 
 
