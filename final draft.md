@@ -211,6 +211,7 @@ How to make all the connections and how to use all the individual pieces and mak
 How to use the various code and promt lines present in the coding section , debugging and checking the various component's functionality at the same time
 Color coding of wires and how to connect them to the components
 
+![alt text](tinkercad.png)
 
 
 
