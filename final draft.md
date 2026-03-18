@@ -419,6 +419,11 @@ How connections are made in it and how it accssses using ip adress
 
 LED bulbs which we used has +ve and -ve terminals 
 
+
+https://github.com/user-attachments/assets/6934194d-8472-4a60-85f8-cb525d4c2625
+
+
+
 # TASK : 555 OSCILATOR
 
 #### Objectives :
