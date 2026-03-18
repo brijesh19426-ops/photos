@@ -213,6 +213,8 @@ Color coding of wires and how to connect them to the components
 
 ![alt text](tinkercad.png)
 
+https://github.com/brijesh19426-ops/photos/blob/87a977250dd8153bb55711f5a815cb617c14b733/tinkercad%201.png
+
 
 
 #  TASK : ACTIVE PARTICIPATION 
