@@ -355,7 +355,7 @@ It has the 4 electrodes arranged in the forma of an H with a switch in middle an
 The aurdiono board takes care of the execution of the code instructing the L298N motor module which specifies the module to supply the right amount of voltage at set intervals 
 controlling the execution of the desired output 
 
-![alt text] (speed control.png)
+https://github.com/user-attachments/assets/1629743b-1a8d-42cc-8cd7-c91156f7f964
 
 #  TASK : VIRTUAL REALITY
 
