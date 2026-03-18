@@ -290,7 +290,7 @@ An H-Bridge is a circuit that lets current flow through a motor in either direct
 
 It is called an “H” bridge because the switching elements are arranged like the letter H.
 
-h brdge.png
+https://github.com/brijesh19426-ops/photos/blob/60274f98e60475297b2df94866054791f61cf65f/h%20bridge.png
 
 # TASK : K-MAP AND DERIVING LOGIVE GATES
 
@@ -328,7 +328,7 @@ Learn about solering filaments (solder) and wax
 Learn how to soleder 
 
 ### My Learnings :
-The working pinciple o the soldering machine , i.e the process of heating the tip of the metal 
+The working pinciple of the soldering machine , i.e the process of heating the tip of the metal 
 Curie's temperature 
 How to clean the tip 
 The tip is the part which gets the most heated so its important to handle it properly 
