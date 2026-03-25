@@ -291,7 +291,7 @@ An H-Bridge is a circuit that lets current flow through a motor in either direct
 It is called an “H” bridge because the switching elements are arranged like the letter H.
 
 
-![image](h bridge.jpeg)
+![image](hbridge.jpeg)
 
 
 # TASK : K-MAP AND DERIVING LOGIVE GATES
