@@ -259,7 +259,7 @@ PWM is applied to the Enable pin of the L293D motor driver IC
 
 Motor speed changes based on duty cycle
 ![image](https://github.com/brijesh19426-ops/photos/blob/main/hbridge.jpeg?raw=true)
-
+![image](https://github.com/brijesh19426-ops/photos/blob/main/speed%20control.png?raw=true)
 ##### H-BRIDGE :
 
 An H-Bridge is a circuit that lets current flow through a motor in either direction, allowing the motor to rotate clockwise or counter-clockwise.
