@@ -1,7 +1,5 @@
 # BRIJESH's LEVEL 0 REPORT
-
 #  TASK : 3-D PRINTING
-
 3-D priniting is the next big thing in the manufacturing industry 
 additive 3-d printing and metal printing are the ones being worked upon now 
 In 3-D printing the plastic filament of the desired type of material is selected and used to print the model we want 
