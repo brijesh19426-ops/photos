@@ -332,7 +332,7 @@ It has the 4 electrodes arranged in the forma of an H with a switch in middle an
 The aurdiono board takes care of the execution of the code instructing the L298N motor module which specifies the module to supply the right amount of voltage at set intervals 
 controlling the execution of the desired output 
 
-[alt text] (speed control.mp4)
+<video src ="" controls="controls" style="max-width: 100; "></video>
 #  TASK : VIRTUAL REALITY
 
 Virtual Reality is  is one of the most fascinating concept of technology and human experience. At its core, VR uses computer-generated environments to immerse people in a simulated world that feels natural and real. Instead of just looking at a screen,we step inside the digital space with the help of headsets, motion controllers. like the film Ready Play One
