@@ -143,7 +143,7 @@ learnt about Frame works and linking (internal linking) linking within a web pag
 
 Frameset basics and how to divide frames in he web page 
 
-![Portfolio web page](file:///C:/Users/venki/OneDrive/Desktop/marvel/portfolio.html)
+![Portfolio web page](file:///C:/Users/venki/OneDrive/Desktop/P1.HTML)
 # TASK : Report Writing Using Markdown 
  
 Markdown is not a programming language—it’s a lightweight markup language that makes text easy to format and read. In simple terms, it’s a way to add styles (like bold, headings, or lists) to plain text without complicated code.
