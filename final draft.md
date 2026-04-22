@@ -333,7 +333,7 @@ The aurdiono board takes care of the execution of the code instructing the L298N
 controlling the execution of the desired output 
 
 <video width="640" height="360" controls>
-  <source src="speed control.mp4" type="video/mp4">
+  <source src="https://github.com/user-attachments/assets/YOUR_ASSET_UUID" type="video/mp4">
 </video>   
 
 # TASK : VIRTUAL REALITY
