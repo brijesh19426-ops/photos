@@ -333,7 +333,7 @@ The aurdiono board takes care of the execution of the code instructing the L298N
 controlling the execution of the desired output 
 
 <video width="640" height="360" controls>
-  <source src="https://raw.githubusercontent.com/USERNAME/REPOSITORY/BRANCH/path/to/video.mp4" type="video/mp4">
+  <source src="https://github.com/brijesh19426-ops/photos/blob/543fb8c85fad1b22c961c7adcfc229abd2bc2b74/speed%20control.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>   
 #  TASK : VIRTUAL REALITY
